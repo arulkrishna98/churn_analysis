@@ -7,5 +7,5 @@
 <h3>CUSTOMER DASHBOARD</h3>
 <img src="Customer Dashboard.png" alt="Customer Dashboard">
 
-<h3>CHURN REASONS</h3>
+<h3>CHURN REASONS AND PREDICTIONS</h3>
 <img src="Churn Reasons.png" alt="Churn Reasons">
